@@ -1,4 +1,4 @@
-#!/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/bin/ruby
+#!/usr/bin/env ruby
 require ENV['TM_BUNDLE_SUPPORT'] + '/lib/rails_bundle_tools'
 
 def prepend(text, prefix)
