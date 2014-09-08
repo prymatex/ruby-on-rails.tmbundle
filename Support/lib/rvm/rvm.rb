@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env ruby18
 
 require "rails_bundle_tools"
 require File.join(TextMate.support_path, "lib", "escape")

@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env ruby18
 #
 # Copyright (c) 2006 Sami Samhuri
 # Distributed under the MIT license

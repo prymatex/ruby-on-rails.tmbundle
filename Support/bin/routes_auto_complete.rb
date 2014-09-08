@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env ruby18
 
 require File.join(ENV['TM_SUPPORT_PATH'], 'lib', 'ui.rb')
 require File.join(ENV['TM_PROJECT_DIRECTORY'], 'config', 'environment')
